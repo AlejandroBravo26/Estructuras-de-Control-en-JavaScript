@@ -1,4 +1,4 @@
-# Estructuras-de-Control-en-JavaScript}
+# Estructuras-de-Control-en-JavaScript
 Conjunto de ejercicios para practicar condicionales (if), bucles (for) y entrada de usuario con prompt. Incluye:
 - Clasificación de edades con if anidados.
 - Tabla de multiplicar usando un bucle for.
